@@ -2,3 +2,4 @@
 GEEK for GEEK DSA course 
 1. Mathematics practice solutions.
 2. Bit Magic solutions.
+3. Array solutions.
